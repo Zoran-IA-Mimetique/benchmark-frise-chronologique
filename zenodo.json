@@ -1,0 +1,20 @@
+{
+  "title": "Benchmark \u2013 Frise Chronologique",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "Frise chronologique benchmark produite dans le cadre du projet Z Forge 1000 Eureka.",
+  "creators": [
+    {
+      "name": "Auteur, Pr\u00e9nom",
+      "affiliation": "CNRS / Universit\u00e9 de Montr\u00e9al"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "version": "1.0.0",
+  "keywords": [
+    "frise chronologique",
+    "benchmark",
+    "AAA Quality Charter",
+    "open science"
+  ]
+}

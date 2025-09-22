@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Benchmark \u2013 Frise Chronologique",
+  "description": "Frise chronologique benchmark produite dans le cadre du projet Z Forge 1000 Eureka.",
+  "creator": {
+    "@type": "Person",
+    "name": "Auteur, Pr\u00e9nom"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "version": "1.0.0",
+  "identifier": "https://doi.org/10.5281/zenodo.1234567"
+}

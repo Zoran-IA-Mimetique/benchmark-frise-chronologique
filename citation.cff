@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Benchmark – Frise Chronologique"
+message: "Si vous utilisez cette frise, merci de citer ce dépôt."
+authors:
+  - family-names: "Auteur"
+    given-names: "Prénom"
+version: "1.0.0"
+doi: "10.5281/zenodo.1234567"
+date-released: "2025-09-22"
+license: "CC-BY-4.0"
